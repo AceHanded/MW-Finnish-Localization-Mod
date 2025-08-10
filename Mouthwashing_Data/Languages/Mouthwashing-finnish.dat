@@ -10,11 +10,11 @@
         },
         {
             "key": "7933223c98c4c754ebd73722fa50ef6a",
-            "value": "VAARA\nPONIKIITO-SUOJAUSSARJA\n\nKÄYTÄ VAIN HÄTÄTILANTEESSA\nPÄÄSY VAIN KAPTEENILLE\nKOODINLUKIJA VAADITAAN"
+            "value": "VAARA\nPONIKIIDON SUOJAUSSARJA\n\nKÄYTÄ VAIN HÄTÄTILANTEESSA\nPÄÄSY VAIN KAPTEENILLE\nKOODINLUKIJA VAADITAAN"
         },
         {
             "key": "c48a811acf3cee64cb4e03a94b37c3af",
-            "value": "Ei Enää Kääntymistä Ympäri"
+            "value": "Nyt Ei Voi Enää Kääntyä Ympäri"
         },
         {
             "key": "39b2b04f16ce6a04087a719c6359942d",
@@ -82,7 +82,7 @@
         },
         {
             "key": "58cb804147ff0544da82d2e76a7ebc0f",
-            "value": "Sokea peto, hortoileva ja levoton.\nEt voi paeta siltä"
+            "value": "Sokea peto, hortoileva ja levoton.\nEt voi paeta sitä"
         },
         {
             "key": "b2a866ffadcb3264696df2a2f9e1f612",
@@ -350,15 +350,15 @@
         },
         {
             "key": "58950377f5c866e4a8b2e411f29c95a7_Elem0",
-            "value": "Swansea ja Daisuke ovat korjanneet tätä rikkinäistä tuuletusaukkoa päiviä."
+            "value": "Swansea ja Daisuke ovat korjanneet tätä rikkinäistä tuuletusaukkoa jo päiviä."
         },
         {
             "key": "58950377f5c866e4a8b2e411f29c95a7_Elem1",
-            "value": "Paras pysyä poissa."
+            "value": "Paras pysyä loitolla."
         },
         {
             "key": "0690e5edb5e57ee44b017517531a66c6_Elem0",
-            "value": "EI ENÄÄ KÄÄNTYMISTÄ YMPÄRI"
+            "value": "NYT EI VOI ENÄÄ KÄÄNTYÄ YMPÄRI"
         },
         {
             "key": "281a50c132ab5834cad4ff06a7a03acb_Elem0",
@@ -406,7 +406,7 @@
         },
         {
             "key": "3f69854fde95dde47bb73b7fb42f7b7d_Elem0",
-            "value": "Polle sanoo \"Älä ole kahjo!\""
+            "value": "Polle sanoo \"Älä ole pöllö!\""
         },
         {
             "key": "3f69854fde95dde47bb73b7fb42f7b7d_Elem1",
@@ -422,7 +422,7 @@
         },
         {
             "key": "34941d500385e1049a0069964b5d45c6_Elem1",
-            "value": "Täsmällinen toimitus on ylpeydenaiheemme ja lupauksemme - Huolimatta siitä, missä olet!"
+            "value": "Täsmällinen toimitus on ylpeydenaiheemme ja lupauksemme - Riippumatta siitä, missä olet!"
         },
         {
             "key": "34941d500385e1049a0069964b5d45c6_Elem2",
@@ -482,7 +482,7 @@
         },
         {
             "key": "b4284789e138bc3449765bbc843df3fd_Elem1",
-            "value": "Kun se on oikea, se on oikea."
+            "value": "Kun se on oikea, niin se on oikea."
         },
         {
             "key": "b71dd74c1eb7cf948a972b5cc4221db1_Elem0",
@@ -562,7 +562,7 @@
         },
         {
             "key": "a9d259f0f520bde449f2fc992127fa58_Desc",
-            "value": "Puoliksi syöty syntymäpäiväkakku. Turvallinen ihmisen syötäväksi, mutta vailla makua."
+            "value": "Puoliksi valmis syntymäpäiväkakku. Turvallinen ihmisen syötäväksi, mutta vailla makua."
         },
         {
             "key": "aa8d21b69fd37b44fb921e4548accdaf_Name",
@@ -1158,7 +1158,7 @@
         },
         {
             "key": "58b2a74a2a9522e4c951f06395e4370e_Here in fact",
-            "value": "Tässä on itse asiassa vastaus unelmaan, joka on yhtä vanha kuin Ihminen itse."
+            "value": "Tässä on tosiasiassa vastaus unelmaan, joka on yhtä vanha kuin Ihminen itse."
         },
         {
             "key": "58b2a74a2a9522e4c951f06395e4370e_A giant of",
@@ -1222,7 +1222,7 @@
         },
         {
             "key": "54714f6809854bc4787ae80ce3e24628_Operating at a profit",
-            "value": "Tuottamalla tasaisesti voittoa, yritys voi tarjota työntekijöille miellyttäviä,"
+            "value": "Voittoa tuottamalla, yritys voi tarjota työntekijälle miellyttäviä,"
         },
         {
             "key": "54714f6809854bc4787ae80ce3e24628_colorful working conditions",
@@ -1250,7 +1250,7 @@
         },
         {
             "key": "54714f6809854bc4787ae80ce3e24628_own his own",
-            "value": "omistaa oman kotinsa, ja nauttia runsaasta vapaa-ajasta nauttiakseen perhe-elämän rauhasta ja hiljaisuudesta."
+            "value": "omistaa oman kotinsa, ja saada runsaasti vapaa-aikaa nauttiakseen perhe-elämän rauhasta ja hiljaisuudesta."
         },
         {
             "key": "54714f6809854bc4787ae80ce3e24628_When investors receive",
@@ -1334,7 +1334,7 @@
         },
         {
             "key": "331cb78e585c4c7eaa47d049d55a7f74",
-            "value": "[i][c=red]Suora törmäyskurssi 1,9 AU:n päässä olevan kiertoradalla olevan kappaleen kanssa."
+            "value": "[i][c=red]Suora törmäyskurssi 1,9 AU:n päässä kiertoradalla olevan kappaleen kanssa."
         },
         {
             "key": "2e6a5c6fc815451e8e537d747c247cca",
@@ -1406,7 +1406,7 @@
         },
         {
             "key": "de8bbb2741564158bc5a6ed5f6278168",
-            "value": "Ai, tässä, pomo!"
+            "value": "Tässä näin, pomo!"
         },
         {
             "key": "cff47ae27e2a4a56b8819805c30f21fa",
@@ -1430,7 +1430,7 @@
         },
         {
             "key": "0ec934eab7704843b9af9b383bdf3f15",
-            "value": "Täällä on oltava jokin \"hätätilanteen varalta\" oleva tie sisälle."
+            "value": "Täällä on oltava jokin tie sisälle \"hätätilanteen varalta\"."
         },
         {
             "key": "d468e1d1bdc347fa8f72ce85c3a1c9a2",
@@ -1450,7 +1450,7 @@
         },
         {
             "key": "a7bb905d39884a33a10b1fac03eb8e5c",
-            "value": "Tietysti! Mene ja kysy häneltä siitä sitten."
+            "value": "Tietysti! Mene ja kysy siitä sitten häneltä."
         },
         {
             "key": "95390333859349428f04433381707116",
@@ -1458,7 +1458,7 @@
         },
         {
             "key": "624a1fddb9f24bea9f0e5a4c6a8de155",
-            "value": "Emme tarvitse häntä, jos löydämme lukijan, saamme koodin, ja avaamme ruuman."
+            "value": "Emme tarvitse häntä, jos löydämme lukijan, saamme koodin ja avaamme ruuman."
         },
         {
             "key": "f094dd6159814941b148e5bc71970749",
@@ -1478,11 +1478,11 @@
         },
         {
             "key": "ebf58e7fe64f498a992e2afe29c31f1f",
-            "value": "Haluatko ottaa kivi-paperi-sakset-pelin kananuudeleista?"
+            "value": "Haluatko ottaa kivi-paperi-sakset kananuudeleista?"
         },
         {
             "key": "4201db4eb690486ba4ae4c3ad6468809",
-            "value": "Paljonko ruokaa meillä on jäljellä?"
+            "value": "Kuinka paljon ruokaa meillä on jäljellä?"
         },
         {
             "key": "bace936f4dd549cd805b10df71dbb995",
@@ -1606,7 +1606,7 @@
         },
         {
             "key": "41961c20b10242788ece46936adebd09",
-            "value": "Työskentelen. Työväen hölmöillä ei ole varaa lopettaa työn tekemistä edes silloin kun kone niin tekee. Ajatella."
+            "value": "Työskentelen. Työväen hölmöillä ei ole varaa lopettaa työskentelyä edes silloin kun kone niin tekee. Ajatella."
         },
         {
             "key": "7bb714ba72324c64be82015243407526",
@@ -1622,7 +1622,7 @@
         },
         {
             "key": "fd786104f96b4289b88412fd04dbdcdf",
-            "value": "Yritän katsoa, jos saisin rikottua sitä tarpeeksi, että saisin jotain hyödyllistä ulos. Jotain työkalujani."
+            "value": "Katson, josko saisin rikottua sitä tarpeeksi, että saisin jotain hyödyllistä ulos. Jotain työkalujani."
         },
         {
             "key": "52fd70681ef74d8d9182e561dda5b137",
@@ -1866,7 +1866,7 @@
         },
         {
             "key": "92d56219f1c34f7cb4dbe5363917f4a2",
-            "value": "Ihmisten on oltava arvonimiensä arvoisia."
+            "value": "Ihmisten on oltava arvonimiensä väärti."
         },
         {
             "key": "b90b263e42464ee3915fd46d96557ba1",
@@ -1990,11 +1990,11 @@
         },
         {
             "key": "e9679f588b074ddfa1afc502f39b4127",
-            "value": "En pystynyt taas nukkumaan."
+            "value": "En saanut taas nukuttua."
         },
         {
             "key": "4f44bd9e936f4054970586932c43d03a",
-            "value": "Mutta läpäisin psykologisen arvioinnin?"
+            "value": "Läpäisinkö kuitenkin psykologisen arvioinnin?"
         },
         {
             "key": "36b3c9c21f8245d7a3e97c40327eed8c",
@@ -2010,7 +2010,7 @@
         },
         {
             "key": "86ade001a15f4d32a64c343e5576c094",
-            "value": "Niin kauan kuin olen silmissäsi lentokelpoinen, Anya."
+            "value": "Kunhan olen silmissäsi lentokelpoinen, Anya."
         },
         {
             "key": "f39f99d2f75f42f29dda973db77b357b",
@@ -2050,7 +2050,7 @@
         },
         {
             "key": "9f2cd155c488405e8b4810b121d86f37",
-            "value": "Olen tuntenut hänet kauan. Hän ei yritä paskapuhetta kanssani."
+            "value": "Olen tuntenut hänet kauan. Hän ei yritä puhua paskaa kanssani."
         },
         {
             "key": "963495a8e67c423fa8be60b5291cf26f",
@@ -2110,11 +2110,11 @@
         },
         {
             "key": "8ab959a3f41b49b6ba9986ac1807e1fc",
-            "value": "Eivät ottaneet huomioon, että meitä olisi nyt viisi."
+            "value": "Eivät ottaneet huomioon, että meitä on nyt viisi."
         },
         {
             "key": "76c2d7163a224801afc7c959e3b863a1",
-            "value": "Minun olisi todella pitänyt tehdä siitä isompi juttu."
+            "value": "Minun olisi todella pitänyt tehdä siitä isompi haloo."
         },
         {
             "key": "6622aaad67e94f1c94d94085d5766a39",
@@ -2174,7 +2174,7 @@
         },
         {
             "key": "808069ebb02a43d184a79b412b6efd50",
-            "value": "Oof. Vahvaa kamaa, eikö?"
+            "value": "Uff. Vahvaa kamaa, eikö?"
         },
         {
             "key": "3edfa87de33848069ee0b9204de72457",
@@ -2230,7 +2230,7 @@
         },
         {
             "key": "12a0034314a241e1a62c30fdd7e49d2c",
-            "value": "Joo, joo... tajusin. Selvästi."
+            "value": "Joo, joo... tajusin. Selkeästi."
         },
         {
             "key": "9c833bf10d944133a3dfcd956c668152",
@@ -2254,7 +2254,7 @@
         },
         {
             "key": "5605d91af5a34d498c3b43309fa77557",
-            "value": "Ja hän eli niinkun 60 vuotiaaksi!"
+            "value": "Ja hän eli niinkun 60-vuotiaaksi!"
         },
         {
             "key": "f23e75b3795e4cd796c14d9e7afbda7a",
@@ -2318,7 +2318,7 @@
         },
         {
             "key": "850f9f0079474dc2be06f60a265ddce2",
-            "value": "Pidän siitä."
+            "value": "Pidän tästä."
         },
         {
             "key": "99d651a0a76144748413fb0dcb1870ec",
@@ -2490,7 +2490,7 @@
         },
         {
             "key": "bfd71a2d27ac41efbb1b3b31cf2595a8__name",
-            "value": "Tarkasta Curlyn Tilanne"
+            "value": "Tarkista Curlyn Tilanne"
         },
         {
             "key": "0d5c69444e9b468e899eb0fae4d95c3c__name",
@@ -2518,7 +2518,7 @@
         },
         {
             "key": "129314bd1f1644f6bc3eea4cd4dadda3",
-            "value": "Jimmy! Etkö pysty myöskään nukkumaan?"
+            "value": "Jimmy! Etkö sinäkään saa nukuttua?"
         },
         {
             "key": "6638e37e44da460d9cdb826e7c33d302",
@@ -2534,7 +2534,7 @@
         },
         {
             "key": "62eb9599cff84f0a87b21d3287b8f8b8",
-            "value": "Ei, älä huoli. Olen kunnossa."
+            "value": "En, älä huoli. Olen kunnossa."
         },
         {
             "key": "e8c37393277a4a22b50d7950b7fde0df",
@@ -3294,7 +3294,7 @@
         },
         {
             "key": "4874c3fbc0f54278bf39edc0c4b16254__name",
-            "value": "Tarkasta Miehistön Tilanne"
+            "value": "Tarkista Miehistön Tilanne"
         },
         {
             "key": "f89ecb46afa649b982b8b3f73a3a3004__name",
@@ -3734,7 +3734,7 @@
         },
         {
             "key": "a04898159cf142f8ad96da49fc204051__name",
-            "value": "Anna Curlylle hänen Vitun Lääkkeensä"
+            "value": "Anna Curlylle Hänen Vitun Lääkkeensä"
         },
         {
             "key": "2cb5fd4fb230c6245b285c3cc1bdfc75_Head",
@@ -3758,7 +3758,7 @@
         },
         {
             "key": "c5ca7574b8c846cf9cc6585790a43b4c",
-            "value": "Joo. En pysty nukkumaan."
+            "value": "Joo. En saa nukuttua."
         },
         {
             "key": "a76e36239c63411a83283abefa366ebc",
@@ -4166,7 +4166,7 @@
         },
         {
             "key": "e1e7efc3b8a4467ba19d0b3d9989db36",
-            "value": "Joten antakaa aplodit Herätekivelle!"
+            "value": "Joten antakaa aplodit Vanakivelle!"
         },
         {
             "key": "611a1286bcd44c9fa694ce380a8a8dfd",
@@ -4174,7 +4174,7 @@
         },
         {
             "key": "6f6ddd4fe8024405882b63b3935cccfd",
-            "value": "Sillä olen iloisin mies, jonka Herätekivi on koskaan nähnyt!"
+            "value": "Sillä olen iloisin mies, jonka Vanakivi on koskaan nähnyt!"
         },
         {
             "key": "f7773aa87e624ed38dafa96303436f26",
@@ -4354,7 +4354,7 @@
         },
         {
             "key": "db20cf99e30141b38bef63dee65b8bbe",
-            "value": "Kuulit Anyan. En pitäisi epätodennäköisenä, että hän tekisi jotain… äärimmäistä nyt."
+            "value": "Kuulit mitä Anya sanoi. En pitäisi mahdottomana, että hän tekisi jotain… äärimmäistä nyt."
         },
         {
             "key": "eaad2ea2cb2f40ab82b8adbf30314427",
@@ -4478,7 +4478,7 @@
         },
         {
             "key": "90fca3720b19415c99768df66050f356",
-            "value": "Bootstrapping ja näin. Mitä hevonpaskaa."
+            "value": "Omavoimaisuus ja näin. Mitä hevonpaskaa."
         },
         {
             "key": "1540573458dd4483b7e18bb4d43afbc9",
@@ -5090,7 +5090,7 @@
         },
         {
             "key": "17496babf2d94344a64e4f3bee37ba71",
-            "value": "Ei mikään mallioppilas, uransa työjuhta tai kunnianhimonsa voima."
+            "value": "Ei mikään mallioppilas, uran työjuhta tai kunnianhimon voima."
         },
         {
             "key": "048fa9a5f7ae408ba742de448e8dd87a",
@@ -5478,7 +5478,7 @@
         },
         {
             "key": "71e215f74995439991cdc302ee642b10",
-            "value": "En luovuta sinun suhteen, edes näin. Uskon sinuun."
+            "value": "En luovuta sinun suhteesi, edes näin. Uskon sinuun."
         },
         {
             "key": "a253a329dc8b4f9f9a233dc326bc79ce",
@@ -5518,7 +5518,7 @@
         },
         {
             "key": "6f6be01259cc4dc99cc986586a64920e",
-            "value": "Vietin kolmetoista vuotta puoliksi leikattuna silmämuniani myöten."
+            "value": "Vietin kolmetoista vuotta puoliksi leikattuna silmämuniini asti."
         },
         {
             "key": "d988e8baa9364b27affcfd0f9c932a77",
@@ -5686,7 +5686,7 @@
         },
         {
             "key": "a4700e95fb884cd685502b2c0282dfc2",
-            "value": "Mikset lopeta sitä, minkä aloitit?"
+            "value": "Mikset päätä sitä, minkä aloitit?"
         },
         {
             "key": "7f5d3a73a16e4f18beb3db115b303a8e",
